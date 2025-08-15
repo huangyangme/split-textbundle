@@ -19,7 +19,7 @@
 TextBundle 文件本质上就是一个压缩打包。用 Ulysses 导出文章合集的 `.textbundle` 文件的默认目录结构如下：
 
 ```
-20250813.textbundle
+xxx.textbundle
   ├── text.md
   ├── info.json
   └── assets/
